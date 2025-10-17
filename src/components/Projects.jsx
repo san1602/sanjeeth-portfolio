@@ -17,7 +17,7 @@ function Projects() {
       title: "Online-Book Store Website",
       description:
         "A fully responsive online bookstore web application built with ReactJS. Users can browse books, view details, and add them to a shopping cart.",
-      link: "#",
+      link: "https://onlinebookstore-smoky.vercel.app/",
     },
   ];
 
