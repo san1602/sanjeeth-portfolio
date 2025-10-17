@@ -22,6 +22,7 @@ function Projects() {
   ];
 
   return (
+    <section id="#projects">
     <div className="projects-container">
       <h2>Projects</h2>
       <div className="projects-grid">
@@ -36,6 +37,7 @@ function Projects() {
         ))}
       </div>
     </div>
+    </section>
   );
 }
 
