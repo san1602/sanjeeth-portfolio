@@ -22,7 +22,7 @@ function Projects() {
   ];
 
   return (
-    <section id="#projects">
+    <section id="#project">
     <div className="projects-container">
       <h2>Projects</h2>
       <div className="projects-grid">
