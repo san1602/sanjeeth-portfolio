@@ -9,12 +9,12 @@ body {
 
 .section {
   width: 100%;
-  padding: 1rem 0 3rem 0;
+  padding: 3rem 0 3rem 0;
   transition: background-color 0.3s ease;
 }
 
 .section h2 {
-  padding: 0 0 0 1rem;
+  padding: 0 0 0 20px;
 }
 
 .section:hover {
@@ -22,7 +22,7 @@ body {
 }
 
 .section p {
-  padding: 0 0 0 1rem;
+  padding: 0 0 0 20px;
   width: 60%;
   font-size: 20px;
 }
@@ -206,7 +206,7 @@ button:hover {
 
 @media (max-width: 768px) {
   .section p {
-    width: 100%;
+    width: 80%;
     font-size: 12px;
   }
 
@@ -233,7 +233,7 @@ button:hover {
 
 @media (max-width: 480px) {
   .section p {
-    width: 100%;
+    width:80%;
     font-size: 12px;
   }
 
@@ -254,7 +254,7 @@ button:hover {
 
   .projects-container {
     border-radius: 12px;
-    padding: 2.5rem;
+  
   }
 
   .projects-container h2 {
