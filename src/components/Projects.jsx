@@ -1,5 +1,6 @@
 import React from "react";
-function Projects() {
+import { useRef } from "react";
+function Projects({projectRef}) {
   const projects = [
     {
       title: "Portfolio Website",
@@ -28,7 +29,7 @@ function Projects() {
   ];
 
   return (
-    <section id="#project">
+    <section id="#project" ref={projectRef} >
       <div className="projects-container">
         <h2>Projects</h2>
         <div className="projects-grid">
