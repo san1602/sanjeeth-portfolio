@@ -18,7 +18,7 @@ function Projects({projectRef}) {
       title: "Japanese Restaurant  Webpage",
       description:
         "I created a responsive Japanese restaurant webpage using HTML, CSS, Bootstrap, and JavaScript. The site includes menu, about, and contact sections. JavaScript is used for small interactive features with simple if conditions.",
-      link: "#",
+      link: "https://japanaese-restaurant.vercel.app/",
     },
     {
       title: "Online-Book Store Website",
