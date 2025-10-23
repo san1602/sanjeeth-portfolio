@@ -12,7 +12,7 @@ function Projects({projectRef}) {
       title: "Shoe Store  Webpage",
       description:
         "A stylish and responsive website for a Shoe Store , built using HTML , CSS and JavaScript , featuring product showcases, hover effects, and a clean user interface optimized for all screen sizes.",
-      link: "#",
+      link: "https://shoewebpage-wkkr.vercel.app/",
     },
     {
       title: "Japanese Restaurant  Webpage",
